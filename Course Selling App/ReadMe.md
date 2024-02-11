@@ -64,7 +64,7 @@ The system is designed to authenticate users and administrators, offering distin
   "password" : "String",
   "purchasedCourses" : [{}]
  }
-
+```
 - Authentication Middleware : Secures user sessions using JWT, ensuring safe sign-in and data access.
 
 ### User Routes : 
