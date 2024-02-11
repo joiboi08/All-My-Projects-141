@@ -1,9 +1,23 @@
 # All-My-Projects
 Collection of all the projects I made and will make. Welcome!
 
-## Course Selling App Backend Implementation 
+# Full Stack Todo App With React 
+Implemented the Backend and a dynamic Frontend for a simple Todo List App as a learning
+project.
+### Backend 
+- made with Node.js and Express
+- written in JavaScript
+- using Zod for input validation
+- MongoDB as external database to hold todos and queried using Mongoose
+- API testing with Postman
+- implemented in different files with appropriate exports to improve readability.
+### Dynamic Updating Frontend
+- implemented using React.js
+- utilising useState and useEffect hooks.
+- Basic styling with HTML, CSS to make it look civil. Learning more CSS to beautify!
 
-# Course Selling App Backend Implementation
+
+# Course Selling App Backend Implementation 
 
 This document outlines the backend implementation for a Course Selling App, akin to platforms like Udemy. This backend system enables new users to sign up, existing users to sign in using JWT token verification, view all available courses, purchase courses, and view their purchased courses. Additionally, it covers the administrative functionalities, allowing for the management and creation of course content.
 
@@ -91,7 +105,7 @@ The system is designed to authenticate users and administrators, offering distin
 
 This backend implementation offers a Course Selling App, providing both users and admins with a robust set of features to engage with course content effectively and securely.
 
-## User App Backend 
+# User App Backend 
 MongoAss stands for Mongo Assignment because that is how it started. 
 This is the backend implementation for : 
 - new user sign up
