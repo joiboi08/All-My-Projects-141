@@ -8,7 +8,16 @@ Made a small web-app that lets you sign up, sign in using secure password hashin
 
 It was my most intense, biggest jump in terms of actual skill => needed skill and (even tho I was looking up half the stuff before writing) it was an incredible learning experience. Makes me feel more confident as dev!
 
-I also hate how little there is "technically" to write in 'Frontend' below but figuring out React, making new components in different files (for that sweet clean look), importing them, troubelshooting for 37mins and realising you forgot to return a function - it all adds up to be more than what is written below. Same for backend but at a lesser intensity because I am getting comfortable in it now. And I will in React too! Thanks for reading, cheerio! 
+I also hate how little there is "technically" to write in 'Frontend' below but 
+- figuring out React
+- making new components in different files (for that sweet clean look)
+- importing the file that imports them because CANNOT stand a mountain of const-requires in the beginning of a file
+- troubelshooting for 37mins and realising you forgot to return a function!
+
+
+It all adds up to be more than what is written below. Same for backend but at a lesser intensity because I am getting comfortable in it now. And I will in React too. 
+
+Thanks for reading, cheerio! 
 
 ### Backend 
 - Node.js and Express
