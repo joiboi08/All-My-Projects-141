@@ -21,6 +21,7 @@ I also hate how little there is "technically" to write in 'Frontend' below but f
 
 ### Frontend 
 - Dynamic frontend! So React.js
+- AVOIDED using external library like Material UI to gain a feel of things, will try next. 
 - the idea was instead of linking to different pages we can have React CONDITIONALLY render the needed components according to userLoggenIn status.
 - HTML/CSS for making it pretttty.
 
