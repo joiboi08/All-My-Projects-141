@@ -1,5 +1,26 @@
 # All-My-Projects
 Collection of all the projects I made and will make. Welcome!
+Right now I only offer files for your perusal but I will soon have them running on servers and let you test/play around! 
+
+# Dynamic Image Upload with SignUp/SignIn Landing Page
+Made a small web-app that lets you sign up, sign in using secure password hashing! And then lets you upload an image! Amazing! 
+It was my most intense, biggest jump in terms of actual skill => needed skill and (even tho I was looking up half the stuff before writing) it was an incredible learning experience. Makes me feel more confident as dev!
+I also hate how little there is "technically" to write in 'Frontend' below but figuring out React, making new components in different files (for that sweet clean look), importing them, troubelshooting for 37mins and realising you forgot to return a function - it all adds up to be more than what is written below. Same for backend but at a lesser intensity because I am getting comfortable in it now. And I will in React too! Thanks for reading, cheerio! 
+
+### Backend 
+- Node.js and Express
+- used Multer for uploaded file handling
+- JWT (jsonwebtoken library) for user authentication
+- MongoDB external NoSQL database, queried with Mongoose
+- API testing with Postman
+- structured, modular file implementation 
+- written in JavaScript
+
+### Frontend 
+- Dynamic frontend! So React.js
+- the idea was instead of linking to different pages we can have React CONDITIONALLY render the needed components according to userLoggenIn status.
+- HTML/CSS for making it pretttty.
+
 
 # Full Stack Todo App With React 
 Implemented the Backend and a dynamic Frontend for a simple Todo List App as a learning
