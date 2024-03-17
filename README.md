@@ -128,12 +128,16 @@ The system is designed to authenticate users and administrators, offering distin
 - View Purchased Courses: Users can access their purchased courses at any time.
 
 ### Technical Stack
+
 **Validation**
 - Input validation is implemented using the Zod library, ensuring data integrity and security.
+
 **Database**
 - Utilizes an external MongoDB for data storage, with Mongoose library for data modeling and query management.
+
 **Server**
 - Written in JavaScript, ensuring a flexible and dynamic backend structure.
+
 **Modular Design**
 - The backend is compartmentalized with a clear export/import structure, enhancing readability and maintainability of the codebase.
 
